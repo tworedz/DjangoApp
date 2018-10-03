@@ -1,0 +1,14 @@
+li a {
+    color: red;
+    font-size: 20px;
+    font-family: Verdana;
+}
+a:hover{
+	color:green;
+}
+
+body {
+	background: brown url("images/background.jpg") repeat center;
+	background-size: contain;
+	margin: 100px;
+}
